@@ -4,9 +4,10 @@
 
 |Number| Title |
 |------|-------|
+|258| [Add Digits](Easy/AddDigits.md)|
+|266| [Palindrome Permutation](Easy/PalindromePermutation.md)|
 |292| [Nim Game](Easy/NimGame.md)|
 |293| [Flip Game](Easy/FlipGame.md)|
-|266| [Palindrome Permutation](Easy/PalindromePermutation.md)|
 
 ### Medium
 
