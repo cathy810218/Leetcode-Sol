@@ -28,3 +28,20 @@ For example, given `s = "++++"`, after one move, it may become one of the follow
 
 ##Solutions
 
+Iterate through the given string and if we see two consecutive string `"++"`, we replace it with `"--"`.
+
+Use a for loop to check if the current and next character are the both `"+"`, if they are, we create a new string but replace them with `"--"`. 
+
+It sounds straightforward, but you have to be careful.
+
+Start out your for loop at `index = 1` to avoid index out of bound exception.
+And use `substring()` to get the original string from range (a, b).
+
+````Java
+for (int i = 1; i < s.length(); i++) {
+    if (s.charAt(i) == '+' && s.charAt(i-1) == '+') {
+        String str = s.substring(0,i-1) + "--" + s.substring(i+1, s.length());
+        result.add(str);
+    }
+}
+````
