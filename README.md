@@ -18,5 +18,7 @@
 
 
 ### Hard
-
-
+| Number | Title |
+|--------|-------|
+|42| [Trapping Rain Water](Hard/TappingWater.md)|
+|329| [Longest Increasing Path in a Matrix](Hard/LongestIncreasingPath.md)|
