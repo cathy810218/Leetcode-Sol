@@ -84,14 +84,14 @@ Then the last row and column gives us `28` the total of the unique ways to get t
 2. Nested for loops: if column is 0 or row is 0, then set the value to 1. 
 (only one unique way to get to (0,x) and (x,0))
 
-      ````
+      ````java
       if (i == 0 || j == 0) {
           cache[i][j] = 1; 
       }
       ````
-3. If neither `i` nor `j` is `0`, then we just need to add up the current position's top and left values.
+3. If neither `i` nor `j` is `0`, then we just need to add up the current position's top and left possible paths.
 
-      ````
+      ````java
       else {
         cache[i][j] = cache[i][j-1] + cache[i-1][j];
       }
