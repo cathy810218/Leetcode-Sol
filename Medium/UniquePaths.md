@@ -82,19 +82,20 @@ Then the last row and column gives us `28` the total of the unique ways to get t
 1. Create a cache matrix that has the size of m by n
       `int[][] cache = new int[m][n];`
 2. Nested for loops: if column is 0 or row is 0, then set the value to 1. 
+(only one unique way to get to (0,x) and (x,0))
 
-(only one unique way to get to (0,x) and (x,0)
-````
-if (i == 0 || j == 0) {
-    cache[i][j] = 1; 
-}
-````
+      ````
+      if (i == 0 || j == 0) {
+          cache[i][j] = 1; 
+      }
+      ````
 3. If neither `i` nor `j` is `0`, then we just need to add up the current position's top and left values.
 
-````
-else {
-  cache[i][j] = cache[i][j-1] + cache[i-1][j];
-}
-````
+      ````
+      else {
+        cache[i][j] = cache[i][j-1] + cache[i-1][j];
+      }
+      ````
 4. Return the value at bottom right corner
     `return cache[m-1][n-1];`
+
