@@ -13,11 +13,11 @@ Given `s = "hello", return "olleh"`
 
 ## Solutions
 
-Use two pointers to solve this problem could save time and space.
+Use two pointers to solve this problem will save time and space.
 The idea is to have a pointer `i` points at the first letter,
-and pointer `j` points at the last letter of the string.
+and pointer `j` points at the last letter of the string, then swap them.
 
-After converting the given string to a character array `c[]`,
+After converting the given string to a character array `c`,
 While `j > i`, do
 
 1. Create a character variable `temp` to store the letter that `i` points to.
