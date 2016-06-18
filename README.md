@@ -8,7 +8,8 @@
 |266| [Palindrome Permutation](Easy/PalindromePermutation.md)|
 |292| [Nim Game](Easy/NimGame.md)|
 |293| [Flip Game](Easy/FlipGame.md)|
-|344| [Reverse String](Easy/ReverseString.md)
+|344| [Reverse String](Easy/ReverseString.md)|
+|346| [Moving Average from Data Stream](Easy/MovingAverage.md)|
 
 ### Medium
 
