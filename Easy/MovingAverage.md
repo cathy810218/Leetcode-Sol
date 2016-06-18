@@ -4,7 +4,7 @@ Given a stream of integers and a window size, calculate the moving average of al
 
 For example,
 
-````
+````Java
 MovingAverage m = new MovingAverage(3);
 m.next(1) = 1
 m.next(10) = (1 + 10) / 2
@@ -26,12 +26,13 @@ then we remove the first one that was added in the queue.
 As the example shown above:
 
 MovingAverage m = new MovingAverage(3) -> the max size is 3 for the queue
+````
 m.next(1)  -> [1]
 m.next(10) -> [1 10]
 m.next(3)  -> [1 10 3]
-m.next(5)  -> [10 3 5]  **remove 1**
-
-And we just needed to sum up the values in the queue and return the value.
+m.next(5)  -> [10 3 5]  //Remove 1
+````
+And we just need to sum up the values in the queue and return the value.
 
 
 To do this,
