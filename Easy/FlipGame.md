@@ -22,7 +22,7 @@ For example, given `s = "++++"`, after one move, it may become one of the follow
 
 [Link to Leetcode](https://leetcode.com/problems/flip-game/)
 
-[Link to Solutions](FlipGame.java)
+[Link to Code](FlipGame.java)
 
 ------------------------------
 

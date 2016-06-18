@@ -7,7 +7,7 @@ For example,
 
 [Link to Leetcode](https://leetcode.com/problems/palindrome-permutation/)
 
-[Link to Solutions](PalindromePermutation.java)
+[Link to Code](PalindromePermutation.java)
 
 --------------------------
 

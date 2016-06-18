@@ -11,7 +11,7 @@ Could you do it without any loop/recursion in O(1) runtime?
 
 [Link to Leetcode](https://leetcode.com/problems/add-digits/)
 
-[Link to Solutions](AddDigits.java)
+[Link to Code](AddDigits.java)
 
 --------------------------------
 ## Sol: Recursion 

@@ -8,7 +8,7 @@ For example, if there are 4 stones in the heap, then you will never win the game
 
 [Link to Leetcode](https://leetcode.com/problems/nim-game/)
 
-[Link to Solutions](NimGame.java)
+[Link to Code](NimGame.java)
 
 ----------------
 
