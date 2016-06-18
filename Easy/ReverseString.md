@@ -21,23 +21,23 @@ After converting the given string to a character array `c[]`,
 While `j > i`, do
 
 1. Create a character variable `temp` to store the letter that `i` points to.
-````Java
-char temp = c[i];
-````
+  ````Java
+  char temp = c[i];
+  ````
 
 2. Swap the letters. 
-````Java
-c[i] = c[j];
-c[j] = temp;
-````
+  ````Java
+  c[i] = c[j];
+  c[j] = temp;
+  ````
 
 3. Move `i` forward and `j` backward.
-````java
-i++;
-j--;
-````
+  ````java
+  i++;
+  j--;
+  ````
 
 4. Finally convert the array back to string and return it.
-````Java
-return new String(c);
-````
+  ````Java
+  return new String(c);
+  ````
