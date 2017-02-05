@@ -13,7 +13,7 @@ The brackets must close in the correct order, `()` and `()[]{}` are all valid bu
 --------------------------------
 ## Solutions: 
 
-First we know that if the given string has an odd length, it returns false
+First we know that if the given string has an odd length, it returns false.
 Then we check each character in the string.
 
 
@@ -21,7 +21,7 @@ The idea is easy.
 You will need a data structure to hold your characters then track if they match.
 A good way to do is with Stack. (Last in, first out) Think about this case: '{}()[]' 
 
-1. Find all the open parentheses and pu
+First find all the open parentheses, and push the open parentheses to the stack.
 
 ````java
 Stack<Character> stack = new Stack<>();
@@ -34,11 +34,10 @@ for (char c : str.toCharArray()) {
 }
 ````
 
-We push the open parentheses to the stack, but if the current
-character is a closed parenthese, we will check if the stack is empty.
+but if the current character is a closed parenthese, we will check if the stack is empty.
 
 If the stack is empty, it tells us that, there's no open paren,
-which should return false
+which should return false, else pop the stack to see if the paren matches.
 
 Inside the else statement
 ````java
