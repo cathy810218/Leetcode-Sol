@@ -1,4 +1,4 @@
-#Flip Game
+# Flip Game
 
 You are playing the following Flip Game with your friend: 
 
