@@ -93,7 +93,7 @@ if (count == 0) {
 }
 ````
 
-If the window size is equal to p.length(), then increase `s` by 1.
+If the window size is equal to `p.length()`, then increase `left` by 1.
 We will need to reset the `count` only if the `hash[s.charAt(left)] >= 0` 
 because we would not care if its less than 1. (not in the `s` string)
 ````java
