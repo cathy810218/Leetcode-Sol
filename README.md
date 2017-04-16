@@ -28,3 +28,29 @@
 |--------|-------|
 |042| [Trapping Rain Water](Hard/TrappingRainWater.md) - NOT DONE|
 |329| [Longest Increasing Path in a Matrix](Hard/LongestIncreasingPath.md)|
+
+
+### Cracking the Coding Interview
+
+*Arrays and Strings*
+|1.1| [Is Unique](CCI/ArraysAndStrings/IsUnique.md)
+|1.2| [Check Permutation](CCI/ArraysAndStrings/CheckPermutation.md)
+|1.3| [URLify](CCI/ArraysAndStrings/URLify.md)
+|1.4| [Palindrome Permutation](CCI/ArraysAndStrings/PalindromePermutation.md)
+|1.5| [One Away](CCI/ArraysAndStrings/OneAway.md)
+|1.6| [String Compression](CCI/ArraysAndStrings/StringCompression.md)
+|1.7| [Rotate Matrix](CCI/ArraysAndStrings/RotateMatrix.md)
+|1.8| [Zero Matrix](CCI/ArraysAndStrings/ZeroMatrix.md)
+|1.9| [String Rotation](CCI/ArraysAndStrings/StringRotation.md)
+
+*Linked Lists*
+|2.1| [Remove Dups](CCI/LinkedLists/RemoveDups.md)
+|2.2| [Return Kth to Last](CCI/LinkedLists/ReturnKthToLast.md)
+|2.3| [Delete Middle Node](CCI/LinkedLists/DeleteMiddleNode.md)
+|2.4| [Parition](CCI/LinkedLists/Partition.md)
+|2.5| [Sum Lists](CCI/LinkedLists/SumLists.md)
+|2.6| [Palindrome](CCI/LinkedLists/Palindrome.md)
+|2.7| [Intersection](CCI/LinkedLists/Intersection.md)
+|2.8| [Loop Detection](CCI/LinkedLists/LoopDetection.md)
+
+
