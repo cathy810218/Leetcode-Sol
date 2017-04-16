@@ -32,7 +32,9 @@
 
 ### Cracking the Coding Interview
 
-*Arrays and Strings*
+## Arrays and Strings
+| Number | Title |
+|--------|-------|
 |1.1| [Is Unique](CCI/ArraysAndStrings/IsUnique.md)
 |1.2| [Check Permutation](CCI/ArraysAndStrings/CheckPermutation.md)
 |1.3| [URLify](CCI/ArraysAndStrings/URLify.md)
@@ -43,7 +45,9 @@
 |1.8| [Zero Matrix](CCI/ArraysAndStrings/ZeroMatrix.md)
 |1.9| [String Rotation](CCI/ArraysAndStrings/StringRotation.md)
 
-*Linked Lists*
+## Linked Lists
+| Number | Title |
+|--------|-------|
 |2.1| [Remove Dups](CCI/LinkedLists/RemoveDups.md)
 |2.2| [Return Kth to Last](CCI/LinkedLists/ReturnKthToLast.md)
 |2.3| [Delete Middle Node](CCI/LinkedLists/DeleteMiddleNode.md)
