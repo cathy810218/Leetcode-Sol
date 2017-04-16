@@ -57,6 +57,7 @@ for (char c : p.toCharArray()) {
 ````
 
 Then here comes the complicated part...
+
 Use two pointers to track your current window position.
 ````java
 int left, right = 0;
@@ -74,8 +75,8 @@ while (right < s.length()) {
 }
 ````    
 
-Inside the array, we will need to check if each character in s is in the hash table.
-Increase the right pointer each time when we done checking.
+Inside the array, we will need to check if each character in `s` is in the hash table.
+Increase the `right` pointer each time when we done checking.
 ````java
 if (hash[s.charAt(right)] >= 1) {
 	count--;
@@ -84,17 +85,17 @@ hash[s.charAt(right)]--;
 right++;
 ````
 
-when the count is down to 0, means we found the right anagram
-then add left pt (index) to result list
+when the `count` is down to 0, means we found the exact anagram.
+Then add the `left` pt (index) to result list
 ````java
 if (count == 0) {
     list.add(left);
 }
 ````
 
-If the window size is equal to p.length(), then increase s by 1
-We will need to reset the `count` only if the hash[s.charAt(left)] >= 0,
-because we would not care if its less than 1. (not in the s string)
+If the window size is equal to `p.length()`, then increase `left` by 1.
+We will need to reset the `count` only if the `hash[s.charAt(left)] >= 0` 
+because we would not care if its less than 1. (not in the `s` string)
 ````java
 if (right - left == p.length()) {
 	if (hash[s.charAt(left)] >= 0) {
