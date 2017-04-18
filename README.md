@@ -1,4 +1,4 @@
-#LeetCode Solutions - Algorithms
+# LeetCode Solutions - Algorithms
 
 ### Easy
 
@@ -6,6 +6,9 @@
 |------|-------|
 |001| [Two Sum](Easy/TwoSum.md)|
 |020| [Valid Parentheses](Easy/ValidParen.md)
+|155| [Min Stack](Easy/MinStack.md)
+|206| [Reverse Linked List](Easy/ReverseLinkedList.md)
+|235| [Lowest Common Ancestor of a BST](Easy/LCABST.md)
 |258| [Add Digits](Easy/AddDigits.md)|
 |266| [Palindrome Permutation](Easy/PalindromePermutation.md)|
 |292| [Nim Game](Easy/NimGame.md)|
@@ -30,9 +33,10 @@
 |329| [Longest Increasing Path in a Matrix](Hard/LongestIncreasingPath.md)|
 
 
-### Cracking the Coding Interview
 
-## Arrays and Strings
+## Cracking the Coding Interview
+
+### Arrays and Strings
 | Number | Title |
 |--------|-------|
 |1.1| [Is Unique](CCI/ArraysAndStrings/IsUnique.md)
@@ -45,7 +49,7 @@
 |1.8| [Zero Matrix](CCI/ArraysAndStrings/ZeroMatrix.md)
 |1.9| [String Rotation](CCI/ArraysAndStrings/StringRotation.md)
 
-## Linked Lists
+### Linked Lists
 | Number | Title |
 |--------|-------|
 |2.1| [Remove Dups](CCI/LinkedLists/RemoveDups.md)
