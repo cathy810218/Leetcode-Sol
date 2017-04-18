@@ -70,9 +70,9 @@ that means it could be a valid parentheses.
 BUT, what if there are some elements left still in the stack that weren't popped?
 
 Example:
-'[[{([])}'
+`[[{([])}`
 
-This case would have passed the first check (str.length() %2 == 0)
+This case would have passed the first check `str.length() %2 == 0`
 as well as all other checks in the for loop.
 
 Therefore, the last step is to check if the stack is empty.

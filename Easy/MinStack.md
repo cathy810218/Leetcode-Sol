@@ -16,15 +16,22 @@ getMin() -- Retrieve the minimum element in the stack.
 # Sol
 
 In order to keep track of the min value, we will need to create two stacks.
+
 One is the main stack that behaves just like a regular stack.
+
 One keeps track of the min value in the stack.
 
-These two stack "must" have the same size.
+
+These two stacks "must" have the same size.
+
 The important part of this implementation is `push(x)` method.
 
+
 First, if there's nothing in `minStack`, we need to `push(x)`.
+
 Then if the current value `x` is smaller than the last value `minStack.peek()`,
 we also need to `push(x)`.
+
 If the current value `x` is greater than the last value `minStack.peek()`,
 instead of pushing `x`, we push the last value in `minStack` again.
 
@@ -42,4 +49,4 @@ current min value in the min stack.**
     }
     mainStack.push(x);
   }
-```java
+```
