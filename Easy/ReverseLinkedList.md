@@ -4,7 +4,7 @@ Reverse a singly linked list.
 
 [Link to Leetcode](https://leetcode.com/problems/reverse-linked-list)
 
-[Link to Code](ReversedLinkedList.java)
+[Link to Code](ReverseLinkedList.java)
 
 --------------------------------
 ## Sol: 
