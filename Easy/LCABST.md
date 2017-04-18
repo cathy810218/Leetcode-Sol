@@ -27,7 +27,7 @@ Check the given nodes' values and compare them with the root value.
 
 1. If `root` value is smaller than both `p` and `q`, then we check the right subtree.
 
-2. If 'root' value is greater than both `p` and `q`, then we check the left subtree.
+2. If `root` value is greater than both `p` and `q`, then we check the left subtree.
 
 3. Else, we just return `root`
 
