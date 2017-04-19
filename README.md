@@ -6,7 +6,10 @@
 |------|-------|
 |001| [Two Sum](Easy/TwoSum.md)|
 |020| [Valid Parentheses](Easy/ValidParen.md)
+|021| [Merge Two Sorted Lists](Easy/MergeTwoSortedLists.md)
+|141| [Linked List Cycle](Easy/LinkedListCycle.md)
 |155| [Min Stack](Easy/MinStack.md)
+|160| [Intersection of Two Linked Lists](IntersectionTwoLinkedLists.md)
 |206| [Reverse Linked List](Easy/ReverseLinkedList.md)
 |235| [Lowest Common Ancestor of a BST](Easy/LCABST.md)
 |258| [Add Digits](Easy/AddDigits.md)|
