@@ -14,6 +14,7 @@
 |235| [Lowest Common Ancestor of a BST](Easy/LCABST.md)
 |258| [Add Digits](Easy/AddDigits.md)|
 |266| [Palindrome Permutation](Easy/PalindromePermutation.md)|
+|270| [Closest Binary Search Tree Value](Easy/ClosestBST.md)
 |292| [Nim Game](Easy/NimGame.md)|
 |293| [Flip Game](Easy/FlipGame.md)|
 |344| [Reverse String](Easy/ReverseString.md)|
