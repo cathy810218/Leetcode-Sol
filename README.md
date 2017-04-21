@@ -28,6 +28,7 @@
 |--------|--------|
 |002| [Add Two Number](Medium/AddTwoNumbers.md)
 |062| [Unique Paths](Medium/UniquePaths.md)|
+|098| [Validate Binary Search Tree](Medium/ValidateBST.md)
 |109| [Convert Sorted List to Binary Search Tree](Medium/ConvertSortedListToBST.md)
 |208| [Implement Trie (Prefix Tree)] (Medium/TrieNode.md)|
 |331| [Verify Preorder Serialization of a Binary Tree](Medium/PreorderBT.md)|
