@@ -1,5 +1,18 @@
 # LeetCode Solutions - Algorithms
 
+## Facebook
+|Number| Title |
+|------|-------|
+|283| [Move Zeros](Easy/MoveZeros.java)|
+|325| [Maximum Size Subarray Sum Equals k](Medium/MaxSubArray.java)|
+|067| [Add Binary](Easy/AddBinary.java)|
+|311| [Sparse Matrix Multiplication](Medium/MatrixMultiple.java)|
+|314| [Binary Tree Vertical Order Traversal](Medium/VerticalBST.java)|
+|017| [Letter Combinations of a Phone Number](Medium/LetterCombinations.java)|
+|278| [First Bad Version](Easy/FirstBadVersion.java)|
+
+
+
 ### Easy
 
 |Number| Title |
