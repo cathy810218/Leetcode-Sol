@@ -10,8 +10,15 @@
 |314| [Binary Tree Vertical Order Traversal](Medium/VerticalBST.java)|
 |017| [Letter Combinations of a Phone Number](Medium/LetterCombinations.java)|
 |278| [First Bad Version](Easy/FirstBadVersion.java)|
-
-
+|253| [Meeting Rooms II ](Medium/MeetingRooms2.java)|
+|015| [3Sum](Medium/3Sum.java)|
+|277| [Find the Celebrity](Medium/FindCelebrity.java)|
+|200| [NumberOfIslands](Medium/NumOfIslands.java)|
+|257| [Binary Tree Path](Easy/BinaryTreePaths.java)|
+|161| [One Edit Distance](Medium/OneEditDistance)|
+|157| [Read N Characters Given Read4](Easy/Read4.java)|
+|285| [Inorder Successor in BST](Medium/InorderSuccessorBST.java)
+|211| [Add and Search Word](Medium/AddSearchWord.java)
 
 ### Easy
 
