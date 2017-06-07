@@ -14,11 +14,11 @@
 |015| [3Sum](Medium/3Sum.java)|
 |277| [Find the Celebrity](Medium/FindCelebrity.java)|
 |200| [NumberOfIslands](Medium/NumOfIslands.java)|
-|257| [Binary Tree Path](Easy/BinaryTreePaths.java)|
-|161| [One Edit Distance](Medium/OneEditDistance)|
-|157| [Read N Characters Given Read4](Easy/Read4.java)|
-|285| [Inorder Successor in BST](Medium/InorderSuccessorBST.java)
-|211| [Add and Search Word](Medium/AddSearchWord.java)
+|257| [Binary Tree Path](Easy/BinaryTreePath.java)|
+|161| [One Edit Distance](Medium/OneEditDistance.java)|
+|157| [*Read N Characters Given Read4](Easy/Read4.java)|
+|285| [*Inorder Successor in BST](Medium/InorderSuccessorBST.java)
+|211| [*Add and Search Word](Medium/AddSearchWord.java)
 
 ### Easy
 
