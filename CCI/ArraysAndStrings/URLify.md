@@ -7,7 +7,7 @@ Write a method to replace all spaces in a string with '%20'.
 Need to know how many spaces in the string.
 Strings are immutable in Java so we use char array.
 
-```
+```java
 public void replaceSpaces(char[] charStr) {
 	int spaceCount = 0;
 	for (char c : charStr) {
@@ -30,3 +30,4 @@ public void replaceSpaces(char[] charStr) {
 		}
 	}
 }
+```
