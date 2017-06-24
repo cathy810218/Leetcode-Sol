@@ -13,13 +13,13 @@ is the only way to go.
 
 ```java
 public void deleteNode(LinkedListNode n) {
-  LinkedListNode temp = n.next;
-  if (temp == null) {
-    n = null; // if n is the last node, just set it to be null
-  } else {
-    n.data = temp.data;
-    n.next = temp.next;  
-  }
+    LinkedListNode temp = n.next;
+    if (temp == null) {
+        n = null; // if n is the last node, just set it to be null
+    } else {
+        n.data = temp.data;
+        n.next = temp.next;  
+    }
 }
 
 ```

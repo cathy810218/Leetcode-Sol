@@ -9,7 +9,7 @@ In the if statement, we need to remember to check `i + 1 >= str.length()` for th
 
 ```java
 public String compressString(String str) {
-	StringBuilder result = new StringBuilder(); 
+	StringBuilder result = new StringBuilder();
 	int count = 0;
 	for (int i = 0; i < str.length(); i++) {
 		count ++;

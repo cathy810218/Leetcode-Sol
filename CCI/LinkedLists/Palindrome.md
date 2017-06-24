@@ -15,28 +15,28 @@ BUT be careful when the list size is odd.
 
 ```java
 public boolean isPalindrome(LinkedListNode head) {
-  LinkedListNode fast = head;
-  LinkedListNode slow = head;
-  Stack<Integer> stack = new Stack<>();
+    LinkedListNode fast = head;
+    LinkedListNode slow = head;
+    Stack<Integer> stack = new Stack<>();
 
-  while (fast != null && fast.next != null) {
-    stack.push(slow.val);
-    fast = fast.next.next;
-    slow = slow.next;
-  }
-
-  // Odd
-  if (fast != null) {
-    // skip the middle node
-    slow = slow.next;
-  }
-
-  while (slow != null) {
-    if (slow.val != stack.pop()) {
-      return false;
+    while (fast != null && fast.next != null) {
+        stack.push(slow.val);
+        fast = fast.next.next;
+        slow = slow.next;
     }
-    slow = slow.next;
-  }
-  return true;
+
+    // Odd
+    if (fast != null) {
+        // skip the middle node
+        slow = slow.next;
+    }
+
+    while (slow != null) {
+        if (slow.val != stack.pop()) {
+            return false;
+        }
+        slow = slow.next;
+    }
+    return true;
 }
 ```

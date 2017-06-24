@@ -15,25 +15,25 @@ Then we know that another pointer is pointing to the kth to the last.
 
 ```java
 public LinkedListNode kthToLastNode(LinkedListNode head, int k) {
-  if (head == null) {
-    return null;
-  }
-  LinkedListNode p1 = head;
-  LinkedListNode p2 = head;
-  int steps = k;
-  while (steps > 0) {
-    if (p2 == null) {
-      return null;
+    if (head == null) {
+        return null;
     }
-    p2 = p2.next;
-    steps --;
-  }
+    LinkedListNode p1 = head;
+    LinkedListNode p2 = head;
+    int steps = k;
+    while (steps > 0) {
+        if (p2 == null) {
+            return null;
+        }
+        p2 = p2.next;
+        steps --;
+    }
 
-  while (p2 != null) {
-    p1 = p1.next;
-    p2 = p2.next;
-  }
-  return = p1;
+    while (p2 != null) {
+        p1 = p1.next;
+        p2 = p2.next;
+    }
+    return = p1;
 }
 
 ```
