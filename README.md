@@ -61,6 +61,8 @@
 |329| [Longest Increasing Path in a Matrix](Hard/LongestIncreasingPath.md)|
 
 
+------------------------------------------------------------------------
+
 
 ## Cracking the Coding Interview
 
@@ -83,10 +85,34 @@
 |2.1| [Remove Dups](CCI/LinkedLists/RemoveDups.md)
 |2.2| [Return Kth to Last](CCI/LinkedLists/ReturnKthToLast.md)
 |2.3| [Delete Middle Node](CCI/LinkedLists/DeleteMiddleNode.md)
-|2.4| [Parition](CCI/LinkedLists/Partition.md)
+|2.4| [Partition](CCI/LinkedLists/Partition.md)
 |2.5| [Sum Lists](CCI/LinkedLists/SumLists.md)
 |2.6| [Palindrome](CCI/LinkedLists/Palindrome.md)
 |2.7| [Intersection](CCI/LinkedLists/Intersection.md)
 |2.8| [Loop Detection](CCI/LinkedLists/LoopDetection.md)
 
+### Stacks and Queues
+| Number | Title |
+|--------|-------|
+|3.1| [Three in One](CCI/StacksAndQueues/ThreeInOne.md)
+|3.2| [Stack Min](CCI/StacksAndQueues/StackMin.md)
+|3.3| [Stack of Plates](CCI/StacksAndQueues/StackOfPlates.md)
+|3.4| [Queue via Stacks](CCI/StacksAndQueues/QueueViaStacks.md)
+|3.5| [Sort Stack](CCI/StacksAndQueues/SortStack.md)
+|3.6| [Animal Shelter](CCI/StacksAndQueues/AnimalShelter.md)
 
+### Trees and Graphs
+| Number | Title |
+|--------|-------|
+|4.1| [Route Between Nodes](CCI/TreesAndGraphs/RouteBetweenNodes.md)
+|4.2| [Minimal Tree](CCI/TreesAndGraphs/MinimalTree.md)
+|4.3| [List of Depths](CCI/TreesAndGraphs/ListOfDepths.md)
+|4.4| [Check Balanced](CCI/TreesAndGraphs/CheckBalanced.md)
+|4.5| [Validate BST](CCI/TreesAndGraphs/ValidateBST.md)
+|4.6| [Successor](CCI/TreesAndGraphs/Successor.md)
+|4.7| [Build Order](CCI/TreesAndGraphs/BuildOrder.md)
+|4.8| [First Common Ancestor](CCI/TreesAndGraphs/FirstCommonAncestor.md)
+|4.9| [BST Sequence](CCI/TreesAndGraphs/BSTSequence.md)
+|4.10| [Check Subtree](CCI/TreesAndGraphs/CheckSubtree.md)
+|4.11| [Random Node](CCI/TreesAndGraphs/RandomNode.md)
+|4.12| [Paths With Sum](CCI/TreesAndGraphs/PathsWithSum.md)
