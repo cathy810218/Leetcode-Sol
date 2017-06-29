@@ -31,7 +31,7 @@ public LinkedListNode findBeginningNode(LinkedListNode head) {
     walker = head;
     while (runner != walker) {
         walker = walker.next;
-        runner = runner.next;
+        runner = runner.next.next;
     }
     return walker;
 }
