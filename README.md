@@ -40,6 +40,7 @@
 |293| [Flip Game](Easy/FlipGame.md)|
 |344| [Reverse String](Easy/ReverseString.md)|
 |346| [Moving Average from Data Stream](Easy/MovingAverage.md)|
+|414| [Third Maximum Number](Easy/ThirdMax.md)|
 |438| [Find All Anagrams in a String](Easy/FindAnagrams.md)|
 
 ### Medium
