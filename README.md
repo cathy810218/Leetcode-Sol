@@ -5,7 +5,7 @@
 |------|-------|
 |283| [Move Zeros](FB/MoveZeros.md)|
 |325| [Maximum Size Subarray Sum Equals k](FB/MaxSubArray.md)|
-|067| [Add Binary](Easy/AddBinary.java)|
+|067| [Add Binary](FB/AddBinary.md)|
 |311| [Sparse Matrix Multiplication](Medium/MatrixMultiple.java)|
 |314| [Binary Tree Vertical Order Traversal](Medium/VerticalBST.java)|
 |017| [Letter Combinations of a Phone Number](Medium/LetterCombinations.java)|
