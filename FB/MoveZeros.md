@@ -8,16 +8,16 @@ nums should be `[1, 3, 12, 0, 0]`.
 ### Java
 ```Java
 public void moveZeros(int[] nums) {
-int front = 0;
-for (int i = 0; i < nums.length; i++) {
-if (nums[i] != 0) {
-// move to front
-int temp = nums[i];
-nums[i] = 0;
-nums[front] = temp;
-front ++;
-}
-}
+    int front = 0;
+    for (int i = 0; i < nums.length; i++) {
+        if (nums[i] != 0) {
+            // move to front
+            int temp = nums[i];
+            nums[i] = 0;
+            nums[front] = temp;
+            front ++;
+        }
+    }
 }
 ```
 
