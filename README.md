@@ -3,8 +3,8 @@
 ## Facebook
 |Number| Title |
 |------|-------|
-|283| [Move Zeros](Easy/MoveZeros.java)|
-|325| [Maximum Size Subarray Sum Equals k](Medium/MaxSubArray.java)|
+|283| [Move Zeros](FB/MoveZeros.md)|
+|325| [Maximum Size Subarray Sum Equals k](FB/MaxSubArray.md)|
 |067| [Add Binary](Easy/AddBinary.java)|
 |311| [Sparse Matrix Multiplication](Medium/MatrixMultiple.java)|
 |314| [Binary Tree Vertical Order Traversal](Medium/VerticalBST.java)|
