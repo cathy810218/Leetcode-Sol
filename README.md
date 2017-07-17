@@ -7,18 +7,17 @@
 |325| [Maximum Size Subarray Sum Equals k](FB/MaxSubArray.md)|
 |067| [Add Binary](FB/AddBinary.md)|
 |311| [Sparse Matrix Multiplication](FB/MatrixMultiple.md)|
-|314| [Binary Tree Vertical Order Traversal](Medium/VerticalBST.java)|
-|017| [Letter Combinations of a Phone Number](Medium/LetterCombinations.java)|
-|278| [First Bad Version](Easy/FirstBadVersion.java)|
-|253| [Meeting Rooms II ](Medium/MeetingRooms2.java)|
-|015| [3Sum](Medium/3Sum.java)|
-|277| [Find the Celebrity](Medium/FindCelebrity.java)|
-|200| [NumberOfIslands](Medium/NumOfIslands.java)|
-|257| [Binary Tree Path](Easy/BinaryTreePath.java)|
-|161| [One Edit Distance](Medium/OneEditDistance.java)|
-|157| [*Read N Characters Given Read4](Easy/Read4.java)|
-|285| [*Inorder Successor in BST](Medium/InorderSuccessorBST.java)
-|211| [*Add and Search Word](Medium/AddSearchWord.java)
+|314| [Binary Tree Vertical Order Traversal](FB/VerticalBST.md)|
+|017| [Letter Combinations of a Phone Number](FB/LetterCombinations.md)|
+|278| [First Bad Version](FB/FirstBadVersion.md)|
+|253| [Meeting Rooms II](FB/MeetingRooms2.md)|
+|015| [3Sum](FB/3Sum.md)|
+|277| [Find the Celebrity](FB/FindCelebrity.md)|
+|200| [NumberOfIslands](FB/NumOfIslands.md)|
+|257| [Binary Tree Path](FB/BinaryTreePath.md)|
+|161| [One Edit Distance](FB/OneEditDistance.md)|
+|285| [*Inorder Successor in BST](FB/InorderSuccessorBST.md)|
+|211| [*Add and Search Word](FB/AddSearchWord.md)|
 
 ### Easy
 
