@@ -16,8 +16,11 @@
 |200| [NumberOfIslands](FB/NumOfIslands.md)|
 |257| [Binary Tree Path](FB/BinaryTreePath.md)|
 |161| [One Edit Distance](FB/OneEditDistance.md)|
-|285| [*Inorder Successor in BST](FB/InorderSuccessorBST.md)|
-|211| [*Add and Search Word](FB/AddSearchWord.md)|
+|285| [Inorder Successor in BST](FB/InorderSuccessorBST.md)|
+|211| [Add and Search Word](FB/AddSearchWord.md)|
+|139| [Word Break](FB/WordBreak.md)|
+|121| [Best Time to Buy and Sell Stock](FB/BestStockSell.md)|
+
 
 ### Easy
 

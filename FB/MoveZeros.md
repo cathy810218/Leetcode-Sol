@@ -31,7 +31,7 @@ public void moveZeros(int[] nums) {
             NSNumber *tmp = nums[i];
             nums[i] = @0;
             nums[front] = tmp;
-            front += 1;
+            front++;
         }
     }
 }

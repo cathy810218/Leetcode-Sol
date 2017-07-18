@@ -73,9 +73,9 @@ public int minMeetingRooms(Interval[] intervals) {
     int endIndex = 0;
     for (int i = 0; i < start.count; i ++) {
         if (sortedStart[i] < sortedEnd[endIndex]) {
-            rooms = rooms + 1;
+            rooms++;
         } else {
-            endIndex = endIndex + 1;
+            endIndex++;
         }
     }
     return rooms;
