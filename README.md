@@ -20,7 +20,18 @@
 |211| [Add and Search Word](FB/AddSearchWord.md)|
 |139| [Word Break](FB/WordBreak.md)|
 |121| [Best Time to Buy and Sell Stock](FB/BestStockSell.md)|
-
+|056| [Merge Intervals](FB/MergeIntervals.md)|
+|341| [Flatten Nested List Iterator](FB/FlattenList.md)|
+|001| [Two Sum](FB/TwoSum.md)|
+|173| [Binary Search Tree Iterator](FB/BSTIterator.md)|
+|125| [Valid Palindrome](FB/ValidPalindrome.md)|
+|075| [Sort Colors](FB/SortColors.md)|
+|078| [Subsets](FB/Subsets.md)|
+|098| [Validate Binary Search Tree](FB/ValidBST.md)|
+|043| [Multiply Strings](FB/MultiplyStrings.md)|
+|206| [Reverse Linked List](FB/ReverseLinkedList.md)|
+|133| [Clone Graph](FB/CloneGraphs.md)|
+|252| [Meeting Rooms](FB/MeetingRooms.md)|
 
 ### Easy
 
