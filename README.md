@@ -32,6 +32,18 @@
 |206| [Reverse Linked List](FB/ReverseLinkedList.md)|
 |133| [Clone Graph](FB/CloneGraphs.md)|
 |252| [Meeting Rooms](FB/MeetingRooms.md)|
+|236| [Lowest Common Ancestor of a Binary Tree](FB/LCABST.md)|
+|049| [Group Anagrams](FB/GroupAnagrams.md)|
+|079| [*Word Search](FB/WordSearch.md)|
+|238| [Product of Array Except Self](FB/ProductOfArray.md)|
+|038| [Count and Say](FB/CountSay.md)|
+|209| [Minimum Size Subarray Sum](FB/MinSubarray.md)|
+|215| [Kth Largest Element in an Array](FB/KthLargest.md)|
+|071| [Simplify Path](FB/SimplifyPath.md)|
+|013| [Roman to Integer](FB/Roman2Integer.md)|
+|033| [Search in Rotated Sorted Array](FB/SearchRotatedArray.md)|
+|208| [Implement Trie](FB/Trie.md)|
+
 
 ### Easy
 
