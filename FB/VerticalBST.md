@@ -23,7 +23,7 @@ public List<List<Integer>> verticalBST(TreeNode root) {
 
 	while(!nodeQ.isEmpty()) {
 		TreeNode currNode = nodeQ.remove();
-		Integer currCol = colQ.remove();
+		int currCol = colQ.remove();
 
 		if (!map.containsKey(currCol)) {
 			map.put(currCol, new ArrayList<Integer>());
@@ -46,7 +46,6 @@ public List<List<Integer>> verticalBST(TreeNode root) {
 	for (int i = min; i <= max; i ++) {
 		results.add(map.get(i))
 	}
-
 	return results;
 }
 ```

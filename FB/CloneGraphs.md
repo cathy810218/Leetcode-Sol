@@ -34,11 +34,33 @@ Visually, the graph looks like the following:
 ### Java
 
 ```java
+/**
+ * Definition for undirected graph.
+ * class UndirectedGraphNode {
+ *     int label;
+ *     List<UndirectedGraphNode> neighbors;
+ *     UndirectedGraphNode(int x) { label = x; neighbors = new ArrayList<UndirectedGraphNode>(); }
+ * };
+ */
+// crate a global map
+public class Solution {
+    Map<Integer, UndirectedGraphNode> map = new HashMap<>();
+    public UndirectedGraphNode cloneGraph(UndirectedGraphNode node) {
+        if (node == null) {
+            return null;
+        }
+        // if it's already in the map, get it and return
+        if (map.containsKey(node.label)) {
+            return map.get(node.label);
+        }
+        UndirectedGraphNode clone = new UndirectedGraphNode(node.label);
+        map.put(clone.label, clone);
 
-```
-
-### Objective-C
-
-```objective-c
-
+        // for each neighbor in node, we need to add it to clone
+        for (UndirectedGraphNode neighbor: node.neighbors) {
+            clone.neighbors.add(cloneGraph(neighbor));
+        }
+        return clone;
+    }
+}
 ```

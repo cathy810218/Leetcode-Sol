@@ -17,7 +17,6 @@ private void backtrack(List<String> result, String temp, String digits, String[]
 		result.add(temp);
 		return;
 	}
-
 	int d = digits.charAt(0) - '0'; // "23" -> 2
 	String key = keys[d];
 	for (int i = 0; i < key.length(); i ++) {
