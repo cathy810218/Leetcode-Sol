@@ -43,6 +43,12 @@
 |013| [Roman to Integer](FB/Roman2Integer.md)|
 |033| [Search in Rotated Sorted Array](FB/SearchRotatedArray.md)|
 |208| [Implement Trie](FB/Trie.md)|
+|090| [Subsets II](FB/Subsets2.md)|
+|380| [Insert Delete GetRandom O(1)](FB/GetRandom.md)|
+|102| [Binary Tree Level Order Traversal](FB/BinaryTreeLevelOrder.md)|
+|377| [Combination Sum IV](FB/CombinationSumIV.md)|
+|088| [Merge Sorted Array](FB/MergeSortedArray.md)|
+|028| [Implement strStr()](FB/ImplementStrStr.md)|
 
 
 ### Easy
