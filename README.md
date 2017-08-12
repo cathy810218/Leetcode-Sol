@@ -1,56 +1,5 @@
 # LeetCode Solutions - Algorithms
 
-## Facebook
-|Number| Title |
-|------|-------|
-|283| [Move Zeros](FB/MoveZeros.md)|
-|325| [Maximum Size Subarray Sum Equals k](FB/MaxSubArray.md)|
-|067| [Add Binary](FB/AddBinary.md)|
-|311| [Sparse Matrix Multiplication](FB/MatrixMultiple.md)|
-|314| [Binary Tree Vertical Order Traversal](FB/VerticalBST.md)|
-|017| [Letter Combinations of a Phone Number](FB/LetterCombinations.md)|
-|278| [First Bad Version](FB/FirstBadVersion.md)|
-|253| [Meeting Rooms II](FB/MeetingRooms2.md)|
-|015| [3Sum](FB/3Sum.md)|
-|277| [Find the Celebrity](FB/FindCelebrity.md)|
-|200| [NumberOfIslands](FB/NumOfIslands.md)|
-|257| [Binary Tree Path](FB/BinaryTreePath.md)|
-|161| [One Edit Distance](FB/OneEditDistance.md)|
-|285| [Inorder Successor in BST](FB/InorderSuccessorBST.md)|
-|211| [Add and Search Word](FB/AddSearchWord.md)|
-|139| [Word Break](FB/WordBreak.md)|
-|121| [Best Time to Buy and Sell Stock](FB/BestStockSell.md)|
-|056| [Merge Intervals](FB/MergeIntervals.md)|
-|341| [Flatten Nested List Iterator](FB/FlattenList.md)|
-|001| [Two Sum](FB/TwoSum.md)|
-|173| [Binary Search Tree Iterator](FB/BSTIterator.md)|
-|125| [Valid Palindrome](FB/ValidPalindrome.md)|
-|075| [Sort Colors](FB/SortColors.md)|
-|078| [Subsets](FB/Subsets.md)|
-|098| [Validate Binary Search Tree](FB/ValidBST.md)|
-|043| [Multiply Strings](FB/MultiplyStrings.md)|
-|206| [Reverse Linked List](FB/ReverseLinkedList.md)|
-|133| [Clone Graph](FB/CloneGraphs.md)|
-|252| [Meeting Rooms](FB/MeetingRooms.md)|
-|236| [Lowest Common Ancestor of a Binary Tree](FB/LCABST.md)|
-|049| [Group Anagrams](FB/GroupAnagrams.md)|
-|079| [*Word Search](FB/WordSearch.md)|
-|238| [Product of Array Except Self](FB/ProductOfArray.md)|
-|038| [Count and Say](FB/CountSay.md)|
-|209| [Minimum Size Subarray Sum](FB/MinSubarray.md)|
-|215| [Kth Largest Element in an Array](FB/KthLargest.md)|
-|071| [Simplify Path](FB/SimplifyPath.md)|
-|013| [Roman to Integer](FB/Roman2Integer.md)|
-|033| [Search in Rotated Sorted Array](FB/SearchRotatedArray.md)|
-|208| [Implement Trie](FB/Trie.md)|
-|090| [Subsets II](FB/Subsets2.md)|
-|380| [Insert Delete GetRandom O(1)](FB/GetRandom.md)|
-|102| [Binary Tree Level Order Traversal](FB/BinaryTreeLevelOrder.md)|
-|377| [Combination Sum IV](FB/CombinationSumIV.md)|
-|088| [Merge Sorted Array](FB/MergeSortedArray.md)|
-|028| [Implement strStr()](FB/ImplementStrStr.md)|
-
-
 ### Easy
 
 |Number| Title |
@@ -81,9 +30,10 @@
 |002| [Add Two Number](Medium/AddTwoNumbers.md)
 |003| [Longest Substring Without Repeating Characters](Medium/LongestSubstring.md)
 |062| [Unique Paths](Medium/UniquePaths.md)|
-|098| [Validate Binary Search Tree](Medium/ValidateBST.md)
-|109| [Convert Sorted List to Binary Search Tree](Medium/ConvertSortedListToBST.md)
-|208| [Implement Trie (Prefix Tree)] (Medium/TrieNode.md)|
+|098| [Validate Binary Search Tree](Medium/ValidateBST.md)|
+|109| [Convert Sorted List to Binary Search Tree](Medium/ConvertSortedListToBST.md)|
+|200| [Number of Islands](Medium/NumberOfIslands.md)|
+|208| [Implement Trie (Prefix Tree)] (Mędium/TrieNode.md)|
 |331| [Verify Preorder Serialization of a Binary Tree](Medium/PreorderBT.md)|
 |449| [Serialize and Deserialize BST](Medium/SerializeDeserializeBST.md)|
 
@@ -150,3 +100,53 @@
 |4.10| [Check Subtree](CCI/TreesAndGraphs/CheckSubtree.md)
 |4.11| [Random Node](CCI/TreesAndGraphs/RandomNode.md)
 |4.12| [Paths With Sum](CCI/TreesAndGraphs/PathsWithSum.md)
+
+## Facebook
+|Number| Title |
+|------|-------|
+|283| [Move Zeros](FB/MoveZeros.md)|
+|325| [Maximum Size Subarray Sum Equals k](FB/MaxSubArray.md)|
+|067| [Add Binary](FB/AddBinary.md)|
+|311| [Sparse Matrix Multiplication](FB/MatrixMultiple.md)|
+|314| [Binary Tree Vertical Order Traversal](FB/VerticalBST.md)|
+|017| [Letter Combinations of a Phone Number](FB/LetterCombinations.md)|
+|278| [First Bad Version](FB/FirstBadVersion.md)|
+|253| [Meeting Rooms II](FB/MeetingRooms2.md)|
+|015| [3Sum](FB/3Sum.md)|
+|277| [Find the Celebrity](FB/FindCelebrity.md)|
+|200| [NumberOfIslands](FB/NumOfIslands.md)|
+|257| [Binary Tree Path](FB/BinaryTreePath.md)|
+|161| [One Edit Distance](FB/OneEditDistance.md)|
+|285| [Inorder Successor in BST](FB/InorderSuccessorBST.md)|
+|211| [Add and Search Word](FB/AddSearchWord.md)|
+|139| [Word Break](FB/WordBreak.md)|
+|121| [Best Time to Buy and Sell Stock](FB/BestStockSell.md)|
+|056| [Merge Intervals](FB/MergeIntervals.md)|
+|341| [Flatten Nested List Iterator](FB/FlattenList.md)|
+|001| [Two Sum](FB/TwoSum.md)|
+|173| [Binary Search Tree Iterator](FB/BSTIterator.md)|
+|125| [Valid Palindrome](FB/ValidPalindrome.md)|
+|075| [Sort Colors](FB/SortColors.md)|
+|078| [Subsets](FB/Subsets.md)|
+|098| [Validate Binary Search Tree](FB/ValidBST.md)|
+|043| [Multiply Strings](FB/MultiplyStrings.md)|
+|206| [Reverse Linked List](FB/ReverseLinkedList.md)|
+|133| [Clone Graph](FB/CloneGraphs.md)|
+|252| [Meeting Rooms](FB/MeetingRooms.md)|
+|236| [Lowest Common Ancestor of a Binary Tree](FB/LCABST.md)|
+|049| [Group Anagrams](FB/GroupAnagrams.md)|
+|079| [*Word Search](FB/WordSearch.md)|
+|238| [Product of Array Except Self](FB/ProductOfArray.md)|
+|038| [Count and Say](FB/CountSay.md)|
+|209| [Minimum Size Subarray Sum](FB/MinSubarray.md)|
+|215| [Kth Largest Element in an Array](FB/KthLargest.md)|
+|071| [Simplify Path](FB/SimplifyPath.md)|
+|013| [Roman to Integer](FB/Roman2Integer.md)|
+|033| [Search in Rotated Sorted Array](FB/SearchRotatedArray.md)|
+|208| [Implement Trie](FB/Trie.md)|
+|090| [Subsets II](FB/Subsets2.md)|
+|380| [Insert Delete GetRandom O(1)](FB/GetRandom.md)|
+|102| [Binary Tree Level Order Traversal](FB/BinaryTreeLevelOrder.md)|
+|377| [Combination Sum IV](FB/CombinationSumIV.md)|
+|088| [Merge Sorted Array](FB/MergeSortedArray.md)|
+|028| [Implement strStr()](FB/ImplementStrStr.md)|
